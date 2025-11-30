@@ -38,7 +38,6 @@ class MyApp extends StatelessWidget {
         brightness: brightness,
       ),
       textTheme: GoogleFonts.outfitTextTheme(baseTheme.textTheme),
-      useMaterial3: true,
       appBarTheme: const AppBarTheme(
         centerTitle: true,
         elevation: 0,
